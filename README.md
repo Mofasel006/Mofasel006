@@ -69,3 +69,75 @@
            .-+#+++++++++###################################################++++++--------------+##################################################+++-     
         .-++#++++++++###############################################################################################################################++-    
       --++#++++++++###################################################################################################################################+. 
+
+<p align="center">
+  <img src="https://demolab.com+..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
+<hr />
+
+## 👤 About Me
+I'm a passionate **Full-stack Developer** and **MERN Stack Specialist** from Bangladesh. I love building scalable web applications and contributing to the open-source community.
+
+```json
+{
+  "const mofasel": {
+    "code": ["JavaScript", "TypeScript", "Python", "C++"],
+    "tools": ["React", "Node.js", "Express", "MongoDB"],
+    "mission": "Build highly scalable, intelligent web systems.",
+    "funFact": "I fix bugs faster with coffee and terminal music."
+  }
+}
+```
+
+<hr />
+
+## 🛠️ Technical Stack
+
+### 🚀 Frontend & Backend Languages
+<p>
+  <img src="https://skillicons.dev" alt="Languages" />
+</p>
+
+### 🌐 Frameworks & Databases
+<p>
+  <img src="https://skillicons.dev" alt="Tech" />
+</p>
+
+### 🔧 Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev" alt="Tools" />
+</p>
+
+<hr />
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+  <img src="https://vercel.app" width="48%" alt="Top Langs" />
+  
+  
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+ 
+  <img src="https://herokuapp.com" width="98%" alt="GitHub Streak" />
+</p>
