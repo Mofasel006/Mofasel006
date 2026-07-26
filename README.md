@@ -1,19 +1,20 @@
 <div align="center">
 
-<!-- FACE ASCII ART SVG (Optimized Size) -->
-<img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/face.svg" alt="Mofasel Face" width="480" style="max-width: 100%; height: auto;"/>
-<br/>
+  <!-- FACE ASCII ART SVG (Full Responsive Size) -->
+  <img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/face.svg" alt="Mofasel Face" width="650" height="auto" />
+  <br/><br/>
 
-<!-- NAME GLOWING SVG (Full Width Adjustment) -->
-<img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/name.svg" alt="MOFASEL" width="100%" style="max-width: 1012px; height: auto; display: block; margin: 10px 0;"/>
-<br/>
+  <!-- NAME GLOWING SVG (Pure GitHub Full Width Adjustment) -->
+  <img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/name.svg" alt="MOFASEL" width="100%" height="auto" />
+  <br/><br/>
  
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+MERN+Stack;AI+%2F+ML+Researcher+%7C+Deep+Learning;DevOps+%7C+Docker+%7C+Kubernetes;Cloud+Architect+%7C+AWS+%7C+Azure;Open+Source+%7C+Community+Builder" alt="Typing SVG" />
-</a>
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+MERN+Stack;AI+%2F+ML+Researcher+%7C+Deep+Learning;DevOps+%7C+Docker+%7C+Kubernetes;Cloud+Architect+%7C+AWS+%7C+Azure;Open+Source+%7C+Community+Builder" alt="Typing SVG" />
+  </a>
  
-<br/><br/>
+  <br/><br/>
+</div>
 
 
 
