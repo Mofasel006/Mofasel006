@@ -1,22 +1,35 @@
 <div align="center">
-<!-- FACE ASCII ART SVG -->
-<img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/face.svg" alt="Mofasel Face" width="420"/>
+
+<!-- FACE ASCII ART SVG (Optimized Size) -->
+<img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/face.svg" alt="Mofasel Face" width="480" style="max-width: 100%; height: auto;"/>
 <br/>
-<!-- NAME GLOWING SVG -->
-<img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/name.svg" alt="MOFASEL" width="100%"/>
-<br/><br/>
+
+<!-- NAME GLOWING SVG (Full Width Adjustment) -->
+<img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/name.svg" alt="MOFASEL" width="100%" style="max-width: 1012px; height: auto; display: block; margin: 10px 0;"/>
+<br/>
  
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+MERN+Stack;AI+%2F+ML+Researcher+%7C+Deep+Learning;DevOps+%7C+Docker+%7C+Kubernetes;Cloud+Architect+%7C+AWS+%7C+Azure;Open+Source+%7C+Community+Builder)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+MERN+Stack;AI+%2F+ML+Researcher+%7C+Deep+Learning;DevOps+%7C+Docker+%7C+Kubernetes;Cloud+Architect+%7C+AWS+%7C+Azure;Open+Source+%7C+Community+Builder" alt="Typing SVG" />
+</a>
  
-<br/>
+<br/><br/>
+
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mofasel006)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF66.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://vercel.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mofasel@example.com)
- 
-</div>
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Mofasel006" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://your-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%2300FF66.svg?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+</a>
+<a href="mailto:mofasel@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+ </div>
+
 ---
  
 ## ⚡ About Me
