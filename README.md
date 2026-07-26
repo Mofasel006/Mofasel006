@@ -2,11 +2,11 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td align="center" valign="middle" width="40%">
+    <td align="center" valign="middle" width="45%">
       <!-- FACE ASCII ART SVG -->
       <img src="https://githubusercontent.com" alt="Mofasel Face" width="100%"/>
     </td>
-    <td align="center" valign="middle" width="60%">
+    <td align="center" valign="middle" width="55%">
       <!-- NAME GLOWING SVG -->
       <img src="https://githubusercontent.com" alt="MOFASEL" width="100%"/>
     </td>
@@ -21,6 +21,7 @@
 </a>
  
 <br/><br/>
+
 
 
 <!-- Social Badges -->
