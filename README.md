@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://demolab.com">
+  </a>
+</p>
 <div align="center">
   <!-- Side-by-Side Professional Layout -->
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%; max-width: 1012px; margin: 0 auto;">
