@@ -1,11 +1,16 @@
 <div align="center">
+  <!-- Side-by-Side Professional Layout -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%; max-width: 1012px; margin: 0 auto;">
+    <div style="flex: 1; min-width: 250px; max-width: 400px;">
+      <!-- FACE ASCII ART SVG -->
+      <img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/face.svg" alt="Mofasel Face" width="100%" height="auto" style="display: block; margin: 0 auto;" />
+    </div>
+    <div style="flex: 2; min-width: 400px; max-width: 650px;">
+      <!-- NAME GLOWING SVG -->
+      <img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/name.svg" alt="MOFASEL" width="100%" height="auto" style="display: block; margin: 0 auto;" />
+    </div>
+  </div>
 
-  <!-- FACE ASCII ART SVG (Full Responsive Size) -->
-  <img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/face.svg" alt="Mofasel Face" width="650" height="auto" />
-  <br/><br/>
-
-  <!-- NAME GLOWING SVG (Pure GitHub Full Width Adjustment) -->
-  <img src="https://raw.githubusercontent.com/Mofasel006/Mofasel006/main/name.svg" alt="MOFASEL" width="100%" height="auto" />
   <br/><br/>
  
   <!-- Typing animation -->
@@ -15,6 +20,7 @@
  
   <br/><br/>
 </div>
+
 
 
 
